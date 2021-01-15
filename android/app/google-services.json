@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "105709576250",
+    "project_id": "hirred",
+    "storage_bucket": "hirred.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105709576250:android:98c538f24bd424851c9503",
+        "android_client_info": {
+          "package_name": "com.mstinfotech.hirred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105709576250-fdtpuk0f9rsejn368gol35offfe20495.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSsc7BSR8HG60mBLi2NcabsstdA99AgHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105709576250-fdtpuk0f9rsejn368gol35offfe20495.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105709576250:android:3a4de1be1403c4161c9503",
+        "android_client_info": {
+          "package_name": "com.mstinfotech.hirred_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105709576250-fdtpuk0f9rsejn368gol35offfe20495.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSsc7BSR8HG60mBLi2NcabsstdA99AgHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105709576250-fdtpuk0f9rsejn368gol35offfe20495.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
